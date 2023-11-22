@@ -1,5 +1,5 @@
 
-# CRONICA - JAVIERA MALDONADO C.
+# CRONICA-JAVIERA MALDONADO C.
 
 ## Título del Gráfico: la categorias de realitys que se repiten a lo largo de la historia de chile
 
