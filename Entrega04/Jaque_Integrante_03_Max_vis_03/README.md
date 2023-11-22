@@ -6,12 +6,12 @@ El gráfico 1 se creó siguiendo los codigos aprendidos, similares a los que ocu
 El gráfico 2 es del mismo estilo pero agrupando 4. Usamos codigos que fueran lo más simples posibles y adaptandolos a los colores y distribución que queriamos 
 ## Preguntas 
 El gráfico puede responder a las siguietes preguntas:
--¿Cuál reality es más popular en Twitter?
--¿Qué programa es más popular?
--¿Qué programa tiene los participantes más populares?
--¿Cuál es el participante más popular?
--¿Cuál reality es más popular en RRSS?
--¿Cuántas interracciones tienen las presentaciones de los participantes de cada programa?
--¿Cuál reality es más popular?
--¿Cuál reality tiene más interacciones?
-En primera instancia al igual que el gráfico de Dorys. ¿Qué formato prefieren los chilenos? basándonos en las interacciones de RRSS
+* ¿Cuál reality es más popular en Twitter?
+* ¿Qué programa es más popular?
+* ¿Qué programa tiene los participantes más populares?
+* ¿Cuál es el participante más popular?
+* ¿Cuál reality es más popular en RRSS?
+* ¿Cuántas interracciones tienen las presentaciones de los participantes de cada programa?
+* ¿Cuál reality es más popular?
+* ¿Cuál reality tiene más interacciones?
+* En primera instancia al igual que el gráfico de Dorys. ¿Qué formato prefieren los chilenos? basándonos en las interacciones de RRSS
