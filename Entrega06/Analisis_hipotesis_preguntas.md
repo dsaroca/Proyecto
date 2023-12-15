@@ -32,7 +32,6 @@ Finalmente, los dos formatos se enfrentan cada día por el rating. Cada uno a su
 
 En varias ocasiones los personajes estrellas debieron ser salvados por el público debido a que la convivencia con otros participantes del reality no era la mejor. En algunas ocasiones porque sus personalidades extremas o complicadas lo dificultaban. La afinidad que las personas llegan a sentir con el personaje hace que incluso gasten una cantidad de plata considerable para salvarlos. En este gráfico se demuestra que los participantes con personalidades más polarizadas eran mayormente los más queridos. Esto se demuestra por el apoyo incondicional que reciben de sus televidentes. Aquí podemos ver un gráfico que muestra quienes eran, y que en su mayoría son recordados por su intensidad.  
 
-(VER GRÁFICO 2)
 
 ## Realities de hoy en día 
 
@@ -46,7 +45,7 @@ Se creó un TOP 10 para Instagram en el cual quedaron como mejor reaccionados:
 
 * El Futuro Fuera de Orbita 
 
-(Puedes visualizar el GRÁFICO 3  para ver todos los resultados). Esta comparación arroja que los participantes más populares están en el reality Tierra Brava, dos de estas personalidades ya fueron conocidas en otros programas por su carácter, autenticidad y polémica.  
+(Puedes visualizar el GRÁFICO 2  para ver todos los resultados). Esta comparación arroja que los participantes más populares están en el reality Tierra Brava, dos de estas personalidades ya fueron conocidas en otros programas por su carácter, autenticidad y polémica.  
 
 Los personajes de Gran Hermano eran todos nuevos rostros. Por lo que, si estaban dentro del TOP 10, refutarían la idea de que “los personajes favoritos de un reality, lo son por características que el televidente admira”, dado que, a ellos aún no los conocían. Hay que aclarar que el significado de admirar según la Real Academia Española define esta palabra como: Ver, contemplar o considerar con estima o agrado especiales a alguien o algo que llaman la atención por cualidades juzgadas como extraordinarias. Es decir, características que no son comunes o las más simples.  
 
@@ -70,11 +69,11 @@ Debemos entender que hay personajes como Pamela Díaz, Junior Playboy, Sebastiá
 
 A continuación, los gráficos de interacciones en Twitter (X), en el primero se reaccionó en el caso de Gran Hermano a una pequeña presentación tipo ¿quién es el participante?, mostrando de manera resumida su personalidad, y en Tierra Brava a fotos anunciando quien entraría. Sin embargo, nuevamente las personalidades de estrellas reality (de participantes conocidos por otros programas), son las mejores reaccionadas. A excepción de personalidades ya conocidas por sus RRSS, por ejemplo, influencers o cantantes, quienes cumplen ya sea con ser auténticos, tener carácter o ser polémicos.  
 
-(VER GRÁFICO 4) 
+(VER GRÁFICO 3) 
 
 En este gráfico vemos una comparación de cuál reality tuvo más interacciones, se analizó que Tierra Brava fue el más reaccionado. Reality donde mayormente se tiene ex estrellas de reality, lo que demostraría que si son estas las características que la audiencia valora incluso hasta el día de hoy. 
 
-(VER GRÁFICO 5)
+(VER GRÁFICO 4)
 
 ## ¿Por qué son personajes estrellas? 
 
