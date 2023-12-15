@@ -215,7 +215,7 @@ flex: 1;
   display: flex;
   justify-content: center;
   align-items: center; /* Centrar verticalmente el contenido */
-  width: 1200px; /* Ocupa el 100% del ancho de la ventana */
+  width: 1300px; /* Ocupa el 100% del ancho de la ventana */
   height: 800px; /* Ocupa el 100% de la altura de la ventana */
 }
 
