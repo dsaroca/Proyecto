@@ -1,4 +1,0 @@
-# Título
-## Bajada
-Cuerpo
-### subtítulos
