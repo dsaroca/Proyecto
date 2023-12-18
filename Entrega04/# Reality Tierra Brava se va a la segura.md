@@ -1,0 +1,5 @@
+# Reality Tierra Brava se va a la segura con personajes conocidos.
+
+## El reality de Canal 13 logró reunir participantes ya conocidos dentro del mundo público y cuyas redes sociales son abruptamente más activas que su competidor en el rating, el reality de Chilevision, Gran Hermano. 
+
+Tierra Brava debuta en la programación y lo hace con una fórmula infalible. Los participantes del reality de Canal 13 mantenían una fuerte influencia en redes sociales logrando que el reality tuviera una mayor repercusión. En redes como X (Ex Twitter) sus interacciones llegaban a una gran cantidad de usuarios, bordeando el millón de likes por publicación y con la respetable suma de 800 comentarios. Personajes como Pamela Díaz lograban distanciarse de manera abismal de cualquier participante del reality de la competencia en materia de seguidores. Todo muy distinto a la realidad de Gran Hermano, donde previo a su estreno los participantes no poseían interacciones destacadas en la red del pajarito y sus seguidores no superaban las 10 mil personas en el mejor de los casos.
